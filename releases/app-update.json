@@ -2,7 +2,7 @@
   "android": {
     "enabled": true,
     "latestVersion": "0.2.4",
-    "latestBuild": 90,
+    "latestBuild": 91,
     "minSupportedBuild": 10,
     "title": "Update available",
     "message": "A newer version of Benny Wallet is available. Please update to continue."
